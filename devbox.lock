@@ -1,0 +1,133 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "gdtoolkit_4@latest": {
+      "last_modified": "2025-02-17T23:19:04Z",
+      "resolved": "github:NixOS/nixpkgs/f0295845e58ada369322524631821b01c0db13a7#gdtoolkit_4",
+      "source": "devbox-search",
+      "version": "4.3.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v5wglaqbpymm8dbqxq5q3bfr6xg6c7ik-gdtoolkit-4.3.3",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/33j27lwsh2vql0whykaqnl65nxdd1i4m-gdtoolkit-4.3.3-dist"
+            }
+          ],
+          "store_path": "/nix/store/v5wglaqbpymm8dbqxq5q3bfr6xg6c7ik-gdtoolkit-4.3.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0hj81k0cm265n36wb5z5kjf8m38qg9j7-gdtoolkit-4.3.3",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/50rshhc07hn6xahqrvykrkixs0j6yj2a-gdtoolkit-4.3.3-dist"
+            }
+          ],
+          "store_path": "/nix/store/0hj81k0cm265n36wb5z5kjf8m38qg9j7-gdtoolkit-4.3.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qa1qkyryas5xq04p72azql8l6li5sqjd-gdtoolkit-4.3.3",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/k1xkmnw6ygvskns5r0m2zkw6fqnz1xk6-gdtoolkit-4.3.3-dist"
+            }
+          ],
+          "store_path": "/nix/store/qa1qkyryas5xq04p72azql8l6li5sqjd-gdtoolkit-4.3.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/y987abqppkzc9avfr8qyj49wzqr8xkk6-gdtoolkit-4.3.3",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/d3nvpf6q759d8ximgnag0jspflaj6y1s-gdtoolkit-4.3.3-dist"
+            }
+          ],
+          "store_path": "/nix/store/y987abqppkzc9avfr8qyj49wzqr8xkk6-gdtoolkit-4.3.3"
+        }
+      }
+    },
+    "pre-commit@latest": {
+      "last_modified": "2025-02-24T11:23:12Z",
+      "resolved": "github:NixOS/nixpkgs/d9b69c3ec2a2e2e971c534065bdd53374bd68b97#pre-commit",
+      "source": "devbox-search",
+      "version": "4.0.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1d72c6irxrvvc81mpds9yl26vglki91k-pre-commit-4.0.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/s2w0cyimcc4qcl65sjh5r6cxafc1h467-pre-commit-4.0.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/1d72c6irxrvvc81mpds9yl26vglki91k-pre-commit-4.0.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jjy89zx3q6pjjc5g6vznagn347arysm2-pre-commit-4.0.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/llxn7kzwnkm33wnw34yl379zxv50nhcl-pre-commit-4.0.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/jjy89zx3q6pjjc5g6vznagn347arysm2-pre-commit-4.0.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9f8bsa4n2srnrdxy437lbaar2cyjpjc8-pre-commit-4.0.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/zwsxv57s7hv30mvk669djjyyynzfbqvp-pre-commit-4.0.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/9f8bsa4n2srnrdxy437lbaar2cyjpjc8-pre-commit-4.0.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v6v2jdx5jq98vcgsb3yvwl1g2dg6qz54-pre-commit-4.0.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/7pw1rj59id4h05ac2bz58vinixk43l7x-pre-commit-4.0.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/v6v2jdx5jq98vcgsb3yvwl1g2dg6qz54-pre-commit-4.0.1"
+        }
+      }
+    }
+  }
+}
