@@ -1,0 +1,10 @@
+#   Refer for explanation to following link:
+#   https://lefthook.dev/configuration/
+
+pre-commit:
+  parallel: true
+  jobs:
+    - name: godot
+      glob: "*.gd"
+      run: gdformat {staged_files}
+      stage_fixed: true
