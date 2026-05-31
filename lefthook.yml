@@ -6,5 +6,5 @@ pre-commit:
   jobs:
     - name: godot
       glob: "*.gd"
-      run: gdformat {staged_files}
+      run: gdscript-formatter {staged_files}
       stage_fixed: true

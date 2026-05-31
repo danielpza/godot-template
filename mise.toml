@@ -1,5 +1,6 @@
 [tools]
 lefthook = "latest"
+"github:GDQuest/GDScript-formatter" = { version = "latest", bin = "gdscript-formatter" }
 
 ["hooks"]
 postinstall = "lefthook install"
