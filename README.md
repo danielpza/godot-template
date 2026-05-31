@@ -9,3 +9,11 @@ Features:
 - lefthook pre-commit hooks (gdscript-formatter)
 - boilerplate (.gitignore, .editorconfig, .gitattributes)
 - GitHub Actions CI
+
+## Getting Started
+
+```sh
+curl -L https://github.com/danielpza/godot-template/archive/refs/heads/master.tar.gz | tar xz
+
+mv godot-template-master my-new-project
+```
